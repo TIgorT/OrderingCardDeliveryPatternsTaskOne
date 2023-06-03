@@ -64,7 +64,7 @@ class DeliveryTest {
         var daysToAddForFirstMeeting = 4;
         var firstMeetingDate = DataGenerator.generateDate(daysToAddForFirstMeeting);
 
-        $("[data-test-id='cit'] input").setValue("Минск");
+        $("[data-test-id='city'] input").setValue("Минск");
         $("[data-test-id ='date'] input").sendKeys(Keys.chord(Keys.SHIFT, Keys.HOME), Keys.BACK_SPACE);
         $("[data-test-id ='date'] input").setValue(firstMeetingDate);
         $("[data-test-id='name'] input").setValue(validUser.getName());
