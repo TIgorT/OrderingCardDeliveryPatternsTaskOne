@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/5la4wapnfd2w8wa1/branch/main?svg=true)](https://ci.appveyor.com/project/TIgorT/orderingcarddeliverypatternstaskone/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/oh3go7bppo15sj6f?svg=true)](https://ci.appveyor.com/project/Igor35218/orderingcarddeliverypatternstaskone)
 
 # Домашнее задание к занятию «2.3. Patterns»
 
